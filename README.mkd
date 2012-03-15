@@ -1,12 +1,15 @@
 ### [battery](https://github.com/itdaniher/ceeExperiments/tree/master/battery)
 
-Charge and discharge a single-cell LiPo. Eventually this well be extended to show charge efficiency and calculate capacity.
+Charge and discharge a single-cell LiPo. Eventually this will be extended to show charge efficiency and calculate capacity.
 
 ### [bodePlot](https://github.com/itdaniher/ceeExperiments/tree/master/bodePlot)
 
 Use the CEE to explore the frequency domain behavior of anything. This code calculates magnitude (in dB) and phase shift (in degrees) for anything attached to channel A of the CEE.
 
 This project is _awesome_ but needs additional UI development as the algorithms are useful for a wide variety of sources and sinks - any possible combination of SVMI, SIMV and chanA, chanB.
+
+* [high pass filter](http://i.imgur.com/Ik1v0.png)
+* [light bulb](https://github.com/itdaniher/ceeExperiments/raw/master/tungsten/bodePlotLightBulb.png)
 
 ### [tungsten](https://github.com/itdaniher/ceeExperiments/tree/master/tungsten)
 
