@@ -1,18 +1,18 @@
-### [battery]
+### [battery](https://github.com/itdaniher/ceeExperiments/tree/master/battery)
 
 Charge and discharge a single-cell LiPo. Eventually this well be extended to show charge efficiency and calculate capacity.
 
-### [bodePlot]
+### [bodePlot](https://github.com/itdaniher/ceeExperiments/tree/master/bodePlot)
 
 Use the CEE to explore the frequency domain behavior of anything. This code calculates magnitude (in dB) and phase shift (in degrees) for anything attached to channel A of the CEE.
 
 This project is _awesome_ but needs additional UI development as the algorithms are useful for a wide variety of sources and sinks - any possible combination of SVMI, SIMV and chanA, chanB.
 
-### [tungsten]
+### [tungsten](https://github.com/itdaniher/ceeExperiments/tree/master/tungsten)
 
 Explored the DC behavior of a tungsten filament. This contains preliminary work at a filament temperature calculator based on the polynomial representation of the temperature-dependent resistance of tungsten.
 
-### [calibrationTest]
+### [calibrationTest](https://github.com/itdaniher/ceeExperiments/tree/master/calibrationTest)
 
 Attempted to determine if the calibration sweep conducted before assembly and packaging could be used to remove the [2v glitch](https://github.com/nonolith/CEE/issues/25) host-side.
 
